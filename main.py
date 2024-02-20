@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import exceptions
 import math
 
 def extract_job_description(all_descriptions):
